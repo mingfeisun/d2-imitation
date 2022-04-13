@@ -1,5 +1,0 @@
-ppo-4-00-Hopper-v2_len_1000_return_3395.52.npz
-ppo-4-01-Hopper-v2_len_1000_return_3405.71.npz
-ppo-4-02-Hopper-v2_len_1000_return_3404.80.npz
-ppo-4-03-Hopper-v2_len_1000_return_3393.17.npz
-ppo-4-04-Hopper-v2_len_1000_return_3385.82.npz

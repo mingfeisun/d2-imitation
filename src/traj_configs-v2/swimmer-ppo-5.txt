@@ -1,5 +1,0 @@
-ppo-0-1-Swimmer-v2_len_1000_return_126.06.npz
-ppo-0-2-Swimmer-v2_len_1000_return_126.51.npz
-ppo-1-2-Swimmer-v2_len_1000_return_127.81.npz
-ppo-1-3-Swimmer-v2_len_1000_return_127.42.npz
-ppo-1-5-Swimmer-v2_len_1000_return_129.53.npz
