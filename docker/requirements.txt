@@ -1,6 +1,6 @@
 cffi
+gym==0.16
 mujoco-py==1.50.1.68
-gym==0.15.4
 seaborn==0.11.0
 pyquaternion==0.9.5
 joblib==0.13.2

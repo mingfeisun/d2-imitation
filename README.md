@@ -48,7 +48,7 @@ python3 -m baselines.imitation.d2_imitation \
     --seed 0  \
     --env_id HalfCheetah-v2  \
     --expert_path traj_configs-v2/halfcheetah-sac-20.txt  \
-    --num_timesteps 500000
+    --total_timesteps 500000
 ```
 The experimental results are logged into `log` folder. 
 
